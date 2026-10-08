@@ -1,0 +1,26 @@
+# MATLAB autosave files
+*.asv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Temporary and log files
+*.tmp
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db

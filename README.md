@@ -1,0 +1,2 @@
+# UKERC_LDES_UoB
+Development repository for the UKERC Long Duration Energy Storage modelling project by the University of Birmingham team.  ## Project overview  This repository contains the modelling, data analysis and post-processing code developed for the UKERC Long Duration Energy Storage (LDES) project.  The project investigates the role and value of long-duration energy storage in future UK energy systems. 
